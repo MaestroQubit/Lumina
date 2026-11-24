@@ -80,17 +80,17 @@ flowchart TD
 
 ### Core Code Structure
 
-- [`backend/app/main.py`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/backend/app/main.py): FastAPI application entrypoint, API routers, static single-page app serving, and demo fixture hosting.
-- [`backend/app/explorer.py`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/backend/app/explorer.py): Playwright-based crawler, state hashing, interaction discovery, and network request interception.
-- [`backend/app/inference.py`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/backend/app/inference.py): Hypotheses generator, architecture blueprint synthesizer, and evidence linking.
-- [`backend/app/domain_data.py`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/backend/app/domain_data.py): High-fidelity domain profiles, realistic mock stores, catalog data, and interactive feature specifications.
-- [`backend/app/clone.py`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/backend/app/clone.py): Multi-file runnable project generator, React component builder, standalone HTML bundler, and ZIP archiver.
-- [`backend/app/clone_domains.py`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/backend/app/clone_domains.py): Dedicated fullstack clone generators for WhatsApp Web, Amazon Storefront, and Spotify Web Player.
-- [`backend/app/qa.py`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/backend/app/qa.py): NVIDIA NIM API integration (`meta/llama-3.1-70b-instruct`) with automated offline heuristic RAG fallback.
-- [`frontend/src/App.tsx`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/frontend/src/App.tsx): Main dashboard managing analyses, live preview modals, and layout splitting.
-- [`frontend/src/components/GraphView.tsx`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/frontend/src/components/GraphView.tsx): Canvas-based interactive behavioral flowchart renderer.
-- [`frontend/src/components/Insights.tsx`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/frontend/src/components/Insights.tsx): Architecture hypotheses, evidence inspection, experiments, and Ask AI drawer.
-- [`frontend/src/components/TargetForm.tsx`](file:///c:/Users/Asus/Desktop/Coding/VSCode-Insider/Lumina/frontend/src/components/TargetForm.tsx): Target URL configuration with automatic sample fixture loading in Demo mode.
+- [`backend/app/main.py`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/backend/app/main.py): FastAPI application entrypoint, API routers, static single-page app serving, and demo fixture hosting.
+- [`backend/app/explorer.py`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/backend/app/explorer.py): Playwright-based crawler, state hashing, interaction discovery, and network request interception.
+- [`backend/app/inference.py`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/backend/app/inference.py): Hypotheses generator, architecture blueprint synthesizer, and evidence linking.
+- [`backend/app/domain_data.py`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/backend/app/domain_data.py): High-fidelity domain profiles, realistic mock stores, catalog data, and interactive feature specifications.
+- [`backend/app/clone.py`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/backend/app/clone.py): Multi-file runnable project generator, React component builder, standalone HTML bundler, and ZIP archiver.
+- [`backend/app/clone_domains.py`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/backend/app/clone_domains.py): Dedicated fullstack clone generators for WhatsApp Web, Amazon Storefront, and Spotify Web Player.
+- [`backend/app/qa.py`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/backend/app/qa.py): NVIDIA NIM API integration (`meta/llama-3.1-70b-instruct`) with automated offline heuristic RAG fallback.
+- [`frontend/src/App.tsx`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/frontend/src/App.tsx): Main dashboard managing analyses, live preview modals, and layout splitting.
+- [`frontend/src/components/GraphView.tsx`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/frontend/src/components/GraphView.tsx): Canvas-based interactive behavioral flowchart renderer.
+- [`frontend/src/components/Insights.tsx`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/frontend/src/components/Insights.tsx): Architecture hypotheses, evidence inspection, experiments, and Ask AI drawer.
+- [`frontend/src/components/TargetForm.tsx`](file:///c:/Users/Asus/Desktop/Coding/GithubRepos/Lumina/frontend/src/components/TargetForm.tsx): Target URL configuration with automatic sample fixture loading in Demo mode.
 
 ---
 
@@ -155,7 +155,7 @@ Ensure you have the following installed on your machine:
 
 #### Step 1: Open Terminal in the Project Root
 ```bash
-cd C:\Users\Asus\Desktop\Coding\VSCode-Insider\Lumina
+cd C:\Users\Asus\Desktop\Coding\GithubRepos\Lumina
 ```
 
 #### Step 2: Configure Environment Variables
